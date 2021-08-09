@@ -5,6 +5,7 @@
 - 🌱 I’m all the time learning ! Trying to work everyday to improve
 - 🤔 I’m looking for help with recovering big data from REST API into symfony project
 - 📫 How to reach me: guillaumeggfr@gmail.com
+13/06/2022
 <!--
 **guillaumeggfr/guillaumeggfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
