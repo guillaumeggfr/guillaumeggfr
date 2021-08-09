@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on 2 personnal projects
+    => Twitch website improving interactivity between streamers and viewers
+    => Ecommerce website to think about business problems and solutions (logistic for exemple)
+- 🌱 I’m all the time learning ! Trying to work everyday to improve
+- 🤔 I’m looking for help with recovering big data from REST API into symfony project
+- 📫 How to reach me: guillaumeggfr@gmail.com
 <!--
 **guillaumeggfr/guillaumeggfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
