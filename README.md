@@ -1,3 +1,5 @@
+![Cover](https://github.com/guillaumeggfr/guillaumeggfr/blob/main/img/wallpaperbetter.com_1920x1080.jpg)
+
 ### Hi there 👋
 - 🔭 I’m currently working on 2 personnal projects  
     => Twitch website improving interactivity between streamers and viewers  
